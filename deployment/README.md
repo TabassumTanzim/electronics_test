@@ -11,5 +11,7 @@ license: mit
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
-Hugging Spaces URL:  https://huggingface.co/spaces/Tabas34/electronics-recogniser
+
+Hugging Spaces URL:  https://huggingface.co/spaces/Tabas34/electronics-recogniser_test
+
 Gradio App URL: https://ac69e31870d5249e02.gradio.live
