@@ -1,0 +1,7 @@
+remote_theme: daviddarnes/alembic@main
+plugins:
+- jekyll-remote-theme
+title : Electronics Recognizer
+description: An image classification API that calssifies 22 types of electronics devices used worldwide.
+author:
+  name: Tabassum Tanzim
